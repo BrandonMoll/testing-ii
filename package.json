@@ -4,5 +4,9 @@
   "main": "index.js",
   "repository": "https://github.com/BrandonMoll/testing-ii.git",
   "author": "BrandonMoll <brandonmoll85@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "jest-dom": "^3.0.1",
+    "react-testing-library": "^5.4.4"
+  }
 }
